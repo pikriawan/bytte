@@ -1,0 +1,11 @@
+{
+  "name": "bytte",
+  "version": "0.0.0-alpha1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "keywords": ["code-editor"],
+  "author": "Fikri Setiawan",
+  "license": "ISC",
+  "description": "A simple code editor for mobile"
+}
